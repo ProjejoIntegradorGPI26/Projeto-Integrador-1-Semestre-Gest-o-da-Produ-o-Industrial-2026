@@ -3,4 +3,4 @@ Este repositório ter por finalidade a centralização e documentação de todos
 ## Entenda sobre o nosso projeto!
 https://docs.google.com/document/d/1Xce5UZGaFbr-P-FpZo7rtQPJOVUA_xY4gIm8c-Nl25k/edit?usp=sharing
 ## Conheça a nossa equipe!
-https://drive.google.com/file/d/1FnX2nHEFMLPEBjLxxOO_fDhV_xrKTa2k/view
+Exibindo api vídeo .png…
