@@ -9,3 +9,5 @@ https://www.youtube.com/watch?si=FtUCLQH8UwUkMS99&v=a_vnWwzAA9Y&feature=youtu.be
 ## Backlog 
 https://drive.google.com/file/d/13dAzymo8ZI9L8Nwn-p8cT9oWAKcawzXh/view?usp=sharing
 https://drive.google.com/file/d/1uHD1OL6MSwTpsNUMK6WS896l9TdoiyHx/view?usp=sharing
+## Conheça a nossa equipe!
+<img width="1920" height="1080" alt="api  vídeo " src="https://github.com/user-attachments/assets/bbdbff33-0d53-449c-bcd5-382f847f43bf" />
