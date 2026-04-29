@@ -1,17 +1,15 @@
-## Atividade de Projeto Integrador | 1° Semestre/2026 | Gestão da Produção Industrial | FATEC: Professor Jessen Vidal 
-Este repositório ter por finalidade a centralização e documentação de todos os artefatos desenvolvidos ao longo da Atividade de Projeto Integrador. O projeto aborda uma: "Análise do ecossistema industrial e de serviços de São José dos Campos, Vale do Paraíba e Litoral Norte".
-## Conheça a nossa equipe!
-<img width="1920" height="1080" alt="api  vídeo " src="https://github.com/user-attachments/assets/188c61e6-e9a3-4f12-8570-e60ef6779311" />
+## Aprendizado por Projeto Integrado (API): 
 
-## Entenda sobre o nosso projeto!
-https://docs.google.com/document/d/1Xce5UZGaFbr-P-FpZo7rtQPJOVUA_xY4gIm8c-Nl25k/edit?usp=sharing
+O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino-aprendizagem que tem por finalidade promover a articulação entre a teoria e a prática, permitindo que os alunos trabalhem em equipe no desenvolvimento de projetos que envolvem diferentes áreas do conhecimento. A proposta incentiva a implementação de conceitos construídos ao longo da formação para resolver problemas reais (RPBL), validação externa e mentalidade ágil. Além de incentivar a desenvoltura de competências como a autonomia, proatividade, colaboração e o foco em resultados, principalmente quando associadas ao uso de metodologias ágeis de gestão, como o SCRUM.
 
-## Apresentação incial sobre o projeto.
-https://drive.google.com/file/d/1ZPv6WH-R-Sgq1-imUgKattt74VGQ1rMU/view?usp=sharing
+Índice:
 
-## Vídeo incial sobre o projeto.
-https://www.youtube.com/watch?si=FtUCLQH8UwUkMS99&v=a_vnWwzAA9Y&feature=youtu.be
+* Objetivo do Projeto
+* Equipe
+* Backlog do Produto
+* Competências Desenvolvidas
+* Registro das Sprints
 
-## Backlog 
-https://drive.google.com/file/d/13dAzymo8ZI9L8Nwn-p8cT9oWAKcawzXh/view?usp=sharing
-https://drive.google.com/file/d/1uHD1OL6MSwTpsNUMK6WS896l9TdoiyHx/view?usp=sharing
+## Projeto (API): 
+
+O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence direcionada à análise do ecossistema industrial de São José dos Campos, Vale do Paraíba e Litoral Norte, utilizando dados públicos da RAIS (Relação Anual de Informações Sociais). A proposta consiste na criação de um painel interativo via web capaz de processar e combinar dados sobre o perfil produtivo regional, identificando os setores predominantes e apoiar futuras iniciativas de tomada de decisão de gestão pública. 
