@@ -2,7 +2,7 @@
 
 O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino-aprendizagem que tem por finalidade promover a articulação entre a teoria e a prática, permitindo que os alunos trabalhem em equipe no desenvolvimento de projetos que envolvem diferentes áreas do conhecimento. A proposta incentiva a implementação de conceitos construídos ao longo da formação para resolver problemas reais (RPBL), validação externa e mentalidade ágil. Além de incentivar a desenvoltura de competências como a autonomia, proatividade, colaboração e o foco em resultados, principalmente quando associadas ao uso de metodologias ágeis de gestão, como o SCRUM.
 
-Índice:
+## Índice:
 
 * Objetivo do Projeto
 * Equipe
