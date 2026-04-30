@@ -30,4 +30,8 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 
 ## Tecnologias Utilizadas:
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbP3Rmtg8v5dpAmpPDOQ1XhbkCgO7QKLGY_A&s
+* Google Colab
+* Microsoft Excel
+* Microsoft Power Bi
+* Python
+* GitHub
