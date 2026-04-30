@@ -27,3 +27,7 @@ O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence 
 ## Objetivo do Projeto:
 
 Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual de Informaçẽos Sociais) para analisar o ecossistema industrial e de serviços como foco nas indústrias químicas de São José dos Campos, Vale do Paraíba e Litoral Norte. O sistema deve oferecer dados sólidos evidenciando o setor mais aquecido, estável e com potencial de expansão proporcional, permitindo análises comparativas e apoiando a tomada de decisão no contexto de gestão industrial.( a verificar no copilot)
+
+## Tecnologias Utilizadas:
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbP3Rmtg8v5dpAmpPDOQ1XhbkCgO7QKLGY_A&s
