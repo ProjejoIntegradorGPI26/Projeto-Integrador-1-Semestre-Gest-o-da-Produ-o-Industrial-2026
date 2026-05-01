@@ -1,8 +1,8 @@
-## Aprendizado por Projeto Integrado (API): 
+# Aprendizado por Projeto Integrado (API) 
 
 O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino-aprendizagem que tem por finalidade promover a articulação entre a teoria e a prática, permitindo que os alunos trabalhem em equipe no desenvolvimento de projetos que envolvem diferentes áreas do conhecimento. A proposta incentiva a implementação de conceitos construídos ao longo da formação para resolver problemas reais (RPBL), validação externa e mentalidade ágil. Além de incentivar a desenvoltura de competências como a autonomia, proatividade, colaboração e o foco em resultados, principalmente quando associadas ao uso de metodologias ágeis de gestão, como o SCRUM.
 
-## Índice:
+# Índice
 
 * Objetivo do Projeto
 * Equipe
@@ -10,11 +10,11 @@ O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino
 * Competências Desenvolvidas
 * Registro das Sprints
 
-## Projeto (API): 
+# Projeto (API)
 
 O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence direcionada à análise do ecossistema industrial de São José dos Campos, Vale do Paraíba e Litoral Norte, utilizando dados públicos da RAIS (Relação Anual de Informações Sociais). A proposta consiste na criação de um painel interativo via web capaz de processar e combinar dados sobre o perfil produtivo regional, identificando os setores predominantes e apoiar futuras iniciativas de tomada de decisão de gestão pública. 
 
- ## Equipe:
+ # Equipe
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -25,11 +25,11 @@ O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence 
 | Team Member  |   Raíssa Esteves      |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raissa-esteves-6463ab332?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/raissaesteves)     |
 | Team Member  | João Henrique    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-a5866a299?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-henrique20/Fonte-de-informa-o-e-banco-de-dados#fonte-de-informa-o-e-banco-de-dados)     |
 
-## Objetivo do Projeto:
+# Objetivo do Projeto
 
 Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual de Informaçẽos Sociais) para analisar o ecossistema industrial e de serviços como foco nas indústrias químicas de São José dos Campos, Vale do Paraíba e Litoral Norte. O sistema deve oferecer dados sólidos evidenciando o setor mais aquecido, estável e com potencial de expansão proporcional, permitindo análises comparativas e apoiando a tomada de decisão no contexto de gestão industrial.
 
-## Tecnologias Utilizadas:
+# Tecnologias Utilizadas
 
 * GitHub
 * Google Colab
@@ -37,7 +37,7 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 * Microsoft Power BI
 * Python
 
-## Product Backlog:
+# Product Backlog
 
 | Rank | Prioridade | User Storie | Sprint |
 | ------ | ----------- | ----------- | ------- |
@@ -50,7 +50,7 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 | 7 | Baixa | Como tomador de decisões de políticas públicas, quero visualizar textos analíticos gerados automaticamente junto aos dashboards, para facilitar a interpretação dos dados e a comunicação dos resultados. | 3 |
 | 8 | Baixa | Como tomador de decisões de políticas públicas, quero exportar dados e insights em formatos como PDF e Excel, para utilizar em relatórios, apresentações e estudos técnicos. | 3 |
 
-## Registro das Sprints:
+# Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
