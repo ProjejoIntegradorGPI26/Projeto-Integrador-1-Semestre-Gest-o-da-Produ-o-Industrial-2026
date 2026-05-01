@@ -54,7 +54,7 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 04/05/2026 | Em Andamneto  | [MVP] (https://github.com/ProjejoIntegradorGPI26/Projeto-Integrador-1-Semestre-Gest-o-da-Produ-o-Industrial-2026/blob/main/MVP/Sprint%201.md)) |
+| 01                | 04/05/2026 | Em Andamneto  | [MVP] (https://github.com/ProjejoIntegradorGPI26/Projeto-Integrador-1-Semestre-Gest-o-da-Produ-o-Industrial-2026/blob/main/MVP/Sprint%201.md) |
 | 02                | 18/05/2026 | Aguardando início  |   |
 | 03                | 08/06/2026 | Aguardando início  |   |
 | Feira de Soluções | 18/06/2026 | Aguardando início  |   |
