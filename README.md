@@ -37,8 +37,3 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 * Python
 
   ## Product Backlog:
-
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como tomador de decisões de políticas públicas, quero acessar dados consolidados e confiáveis de emprego formal, organizados por setor econômico e ano, para realizar análises comparativas, identificar tendências e embasar decisões estratégicas.                                                    | 5          | 1      |
-| 2    | Alta       | Como tomador de decisões de políticas públicas, quero visualizar e comparar o desempenho das indústrias químicas em São José dos Campos, identificando o setor com maior participação e saldo positivo de empregos e o setor com menor dinamismo, para avaliar o grau de dependência econômica, riscos de concentração e necessidades de intervenção pública
