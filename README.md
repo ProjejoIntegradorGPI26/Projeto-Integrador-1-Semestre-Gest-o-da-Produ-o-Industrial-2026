@@ -39,6 +39,9 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 
 ## Product Backlog:
 
+| Rank | Prioridade | User Storie | Sprint |
+| ------ | ----------- | ----------- | ------- |
+
 ## Registro das Sprints:
 
 | Sprint            | Previsão   | Status   | Histórico |
