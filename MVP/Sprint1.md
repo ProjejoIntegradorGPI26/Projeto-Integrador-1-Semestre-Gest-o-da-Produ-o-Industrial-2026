@@ -6,6 +6,8 @@
 - **Hipótese:** Dashboards simples já permitem que gestores identifiquem padrões relevantes.  
 - **Valor Entregue:**: Visualização unificada com dados organizados e tratados.
 
+---
+
 ## 📝 Descrição da Solução
 > Desenvolvimento da base inicial e implementação dos primeiros componentes da interface.   
 - **Funcionalidades incluídas:**  
@@ -14,3 +16,15 @@
   - Integração preliminar com as bases utilizadas.
 - **Limitações:**  Limitação no conhecimento de Power Bi e Python para a realização e filtragem dos dados. 
 - **Escopo reduzido:**
+
+---
+
+## 👥 Personas / Usuários-Alvo
+- **Persona 1: Gestor de Políticas Públicas**  
+  - Dores: Ausência de dados acurados e estruturados.
+
+- **Persona 2: Analista de Dados**  
+  - Dores: Necessidade de entender a base inicial para evoluir as análises.
+
+---
+
