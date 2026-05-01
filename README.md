@@ -4,8 +4,8 @@ O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino
 
 ## Índice:
 
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](##Equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto:)
+* [Equipe](##Equipe:)
 * Backlog do Produto
 * Competências Desenvolvidas
 * Registro das Sprints
@@ -14,7 +14,7 @@ O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino
 
 O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence direcionada à análise do ecossistema industrial de São José dos Campos, Vale do Paraíba e Litoral Norte, utilizando dados públicos da RAIS (Relação Anual de Informações Sociais). A proposta consiste na criação de um painel interativo via web capaz de processar e combinar dados sobre o perfil produtivo regional, identificando os setores predominantes e apoiar futuras iniciativas de tomada de decisão de gestão pública. 
 
- ## Equipe
+ ## Equipe:
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Ana Cecília        |    [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaceciliadeoliveirasouza?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anacecilia02)              |
@@ -24,10 +24,16 @@ O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence 
 | Team Member  |   Raíssa Esteves      |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raissa-esteves-6463ab332?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/raissaesteves)     |
 | Team Member  | João Henrique    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-a5866a299?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-henrique20/Fonte-de-informa-o-e-banco-de-dados#fonte-de-informa-o-e-banco-de-dados)     |
 
-# Objetivo do Projeto
+# Objetivo do Projeto:
 
 Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual de Informaçẽos Sociais) para analisar o ecossistema industrial e de serviços como foco nas indústrias químicas de São José dos Campos, Vale do Paraíba e Litoral Norte. O sistema deve oferecer dados sólidos evidenciando o setor mais aquecido, estável e com potencial de expansão proporcional, permitindo análises comparativas e apoiando a tomada de decisão no contexto de gestão industrial.( a verificar no copilot)
 
 ## Tecnologias Utilizadas:
 
-<img width="55" height="55" alt="google colab" src="https://github.com/user-attachments/assets/de827f9b-c068-45ce-83ca-8bc75427108a" /> <img width="55" height="55" alt="excel" src="https://github.com/user-attachments/assets/e977b44a-eff8-43b8-89db-bfd6da0709c4" /> <img width="55" height="55" alt="583793102-198d7763-92dc-4685-8780-8c7db5d99fa0" src="https://github.com/user-attachments/assets/30ad8df5-5a17-4b40-aa40-3f322fa17d83" /> <img width="55" height="55" alt="python" src="https://github.com/user-attachments/assets/39a968dd-0997-4cce-bc4e-c997814530e6" /><img width="55" height="55" alt="github" src="https://github.com/user-attachments/assets/48416124-bcf5-40a7-9db4-f5a32ae1a6b7" />
+* GitHub
+* Google Colab
+* Microsoft Excel
+* Microsoft Power BI
+* Python
+
+  ## Product Backlog:
