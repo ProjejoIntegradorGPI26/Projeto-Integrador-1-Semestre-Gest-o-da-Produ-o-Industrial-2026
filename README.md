@@ -41,6 +41,7 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 
 | Rank | Prioridade | User Storie | Sprint |
 | ------ | ----------- | ----------- | ------- |
+| 1 | Alta | Como tomador de decisões de políticas públicas, quero acessar dados consolidados e confiáveis de emprego formal, organizados por setor econômico e ano, para realizar análises comparativas, identificar tendências e embasar decisões estratégicas. | 1 |
 
 ## Registro das Sprints:
 
