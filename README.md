@@ -5,6 +5,7 @@ O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino
 ## Índice:
 
 * [Objetivo do Projeto](# Objetivo do Projeto)
+* 
 * Equipe
 * Backlog do Produto
 * Competências Desenvolvidas
