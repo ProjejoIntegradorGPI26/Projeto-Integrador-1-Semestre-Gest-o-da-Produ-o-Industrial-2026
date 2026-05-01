@@ -1,6 +1,6 @@
 # 📌 MVP - Nexa Chemical
 
-## 🎯 | Objetivo do MVP
+## 🎯 Objetivo do MVP
 > Disponibilizar a primeira versão operacional do dashboard, possibilitando a visualização inicial dos principais indicadores essenciais.
 - **Problema solucionado:** Falta de uma visão integrada dos empregos formais e dinamismo dentro da indústria química.
 - **Hipótese:** Dashboards simples já permitem que gestores identifiquem padrões relevantes.  
@@ -8,7 +8,7 @@
 
 ---
 
-## | 📝 Descrição da Solução
+## 📝 Descrição da Solução
 > Desenvolvimento da base inicial e implementação dos primeiros componentes da interface.   
 - **Funcionalidades incluídas:**  
   - Estrutura inicial do painel
@@ -19,7 +19,7 @@
 
 ---
 
-## 👥 | Personas / Usuários-Alvo
+## 👥 Personas / Usuários-Alvo
 - **Persona 1: Gestor de Políticas Públicas**  
   - Dores: Ausência de dados acurados e estruturados.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🔑 | User Stories (Backlog do MVP)
+## 🔑 User Stories (Backlog do MVP)
 
 | Rank | Prioridade | User Storie | Sprint |
 | ------ | ----------- | ----------- | ------- |
@@ -37,27 +37,27 @@
 
 ---
 
-## 📅 | Sprint(s) Relacionadas
+## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Disponibilização da estrutura inicial do painel | Concluído|
 
 ---
 
-## 📊 | Critérios de Aceitação
+## 📊 Critérios de Aceitação
 
 
 ---
 
-## 📈 | Métricas de Validação
+## 📈 Métricas de Validação
 
 ---
 
-## 🚀 | Próximos Passos
+## 🚀 Próximos Passos
 - Aprimoramentos previstos a partir do feedback
 - Refinamentos na usabilidade
 - Ampliação das funcionalidades para o próximo incremento
   
 ---
 
-## 📂 | Anexos / Evidências
+## 📂 Anexos / Evidências
