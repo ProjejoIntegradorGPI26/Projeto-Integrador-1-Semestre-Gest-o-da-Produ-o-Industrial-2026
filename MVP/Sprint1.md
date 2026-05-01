@@ -41,3 +41,23 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Disponibilização da estrutura inicial do painel | Concluído|
+
+---
+
+## 📊 Critérios de Aceitação
+
+
+---
+
+## 📈 Métricas de Validação
+
+---
+
+## 🚀 Próximos Passos
+- Aprimoramentos previstos a partir do feedback
+- Refinamentos na usabilidade
+- Ampliação das funcionalidades para o próximo incremento
+  
+---
+
+## 📂 Anexos / Evidências
