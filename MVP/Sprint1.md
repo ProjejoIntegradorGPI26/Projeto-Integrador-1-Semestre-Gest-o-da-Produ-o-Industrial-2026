@@ -46,6 +46,9 @@
 
 ## 📊 Critérios de Aceitação
 
+- O MVP deve permitir que o usuário filtre  os dados por mês e setor, visualizando informações consolidadas de emprego formal, comparando períodos e  realizando análises junto a evolução temporal em gráficos com indicadores de crescimento e variação.
+- O sistema deve registrar eventos de consulta, aplicação de filtros, geração de comparações e exportação de dados, garantindo consistência com bases oficiais.
+- Métricas coletadas: tempo de resposta das consultas, taxa de uso dos filtros, frequência de comparações entre períodos, volume de exportações de dados e tempo médio de interação do usuário.
 
 ---
 
