@@ -49,3 +49,12 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 | 6 | Baixa | Como tomador de decisões de políticas públicas, quero acessar um dashboard dedicado a insights setoriais automáticos, para obter uma leitura rápida e consolidada do cenário de emprego. | 8 | 3 |
 | 7 | Baixa | Como tomador de decisões de políticas públicas, quero visualizar textos analíticos gerados automaticamente junto aos dashboards, para facilitar a interpretação dos dados e a comunicação dos resultad | 8 | 3 |
 | 8 | Baixa | Como tomador de decisões de políticas públicas, quero exportar dados e insights em formatos como PDF e Excel, para utilizar em relatórios, apresentações e estudos técnicos. | 8 | 3 |
+
+## Registro das Sprints:
+
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 04/05/2026 | Em Andamneto  | [MVP](MVP/MVP/sp1.md)  |
+| 02                | 18/05/2026 | Aguardando início  | [MVP](MVP/MVP/sp2.md)  |
+| 03                | 08/06/2026 | Aguardando início  | [MVP](MVP/MVP/sp3.md)  |
+| Feira de Soluções | 18/06/2026 | Aguardando início  | [MVP](#)  |
