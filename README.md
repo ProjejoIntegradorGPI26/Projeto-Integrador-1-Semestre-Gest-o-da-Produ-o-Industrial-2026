@@ -46,6 +46,7 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 | 3 | Média | Como tomador de decisões de políticas públicas, quero identificar setores com alto crescimento proporcional, mesmo que tenham menor volume absoluto, para reconhecer áreas emergentes da economia. | 2 |
 | 4 | Média | Como tomador de decisões de políticas públicas, quero identificar setores com crescimento moderado e consistente, para apoiar análises de estabilidade e resiliência econômica. | 2 |
 | 5 | Baixa | Como tomador de decisões de políticas públicas, quero identificar automaticamente o setor que mais contratou em determinado período, para direcionar análises e ações estratégicas. | 3 |
+| 6 | Baixa | Como tomador de decisões de políticas públicas, quero acessar um dashboard dedicado a insights setoriais automáticos, para obter uma leitura rápida e consolidada do cenário de emprego. | 3 |
 
 ## Registro das Sprints:
 
