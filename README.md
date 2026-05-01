@@ -37,3 +37,17 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 * Python
 
   ## Product Backlog:
+
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       | Como tomador de decisões de políticas públicas, quero acessar dados consolidados e confiáveis de emprego formal, organizados por setor econômico e ano, para realizar análises comparativas, identificar tendências e embasar decisões estratégicas.                                                    | 5          | 1      |
+| 2    | Alta       | Como tomador de decisões de políticas públicas, quero visualizar e comparar o desempenho das indústrias químicas em São José dos Campos, identificando o setor com maior participação e saldo positivo de empregos e o setor com menor dinamismo, para avaliar o grau de dependência econômica, riscos de concentração e necessidades de intervenção pública, 
+Como tomador de decisões de políticas públicas, quero identificar setores com alto crescimento proporcional, mesmo que tenham menor volume absoluto, para reconhecer áreas emergentes da economia.
+
+                                                                    | 8          | 1      |
+| 3    | Alta       | Como tomador de decisões de políticas públicas, quero identificar setores com crescimento moderado e consistente, para apoiar análises de estabilidade e resiliência econômica.                                               | 5          | 2      |
+| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 17   | Baixa      | Como tomador de decisões de políticas públicas, quero identificar automaticamente o setor que mais contratou em determinado período, para direcionar análises e ações estratégicas.
+
+     | 2          | 3      |
+     
