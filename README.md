@@ -30,8 +30,8 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 
 ## Tecnologias Utilizadas:
 
-<img width="286" height="176" alt="google colab" src="https://github.com/user-attachments/assets/de827f9b-c068-45ce-83ca-8bc75427108a" />
-<img width="3840" height="3951" alt="excel" src="https://github.com/user-attachments/assets/e977b44a-eff8-43b8-89db-bfd6da0709c4" />
-<img width="151" height="150" alt="583793102-198d7763-92dc-4685-8780-8c7db5d99fa0" src="https://github.com/user-attachments/assets/30ad8df5-5a17-4b40-aa40-3f322fa17d83" />
-<img width="3840" height="3840" alt="python" src="https://github.com/user-attachments/assets/39a968dd-0997-4cce-bc4e-c997814530e6" />
-<img width="512" height="512" alt="github" src="https://github.com/user-attachments/assets/48416124-bcf5-40a7-9db4-f5a32ae1a6b7" />
+<img width="48" height="48" alt="google colab" src="https://github.com/user-attachments/assets/de827f9b-c068-45ce-83ca-8bc75427108a" />
+<img width="48" height="48" alt="excel" src="https://github.com/user-attachments/assets/e977b44a-eff8-43b8-89db-bfd6da0709c4" />
+<img width="48" height="48" alt="583793102-198d7763-92dc-4685-8780-8c7db5d99fa0" src="https://github.com/user-attachments/assets/30ad8df5-5a17-4b40-aa40-3f322fa17d83" />
+<img width="48" height="48" alt="python" src="https://github.com/user-attachments/assets/39a968dd-0997-4cce-bc4e-c997814530e6" />
+<img width="48" height="48" alt="github" src="https://github.com/user-attachments/assets/48416124-bcf5-40a7-9db4-f5a32ae1a6b7" />
