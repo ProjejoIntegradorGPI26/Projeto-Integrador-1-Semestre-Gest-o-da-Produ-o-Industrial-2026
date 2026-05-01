@@ -43,6 +43,7 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 | ------ | ----------- | ----------- | ------- |
 | 1 | Alta | Como tomador de decisões de políticas públicas, quero acessar dados consolidados e confiáveis de emprego formal, organizados por setor econômico e ano, para realizar análises comparativas, identificar tendências e embasar decisões estratégicas. | 1 |
 | 2 | Alta | Como tomador de decisões de políticas públicas, quero visualizar e comparar o desempenho das indústrias químicas em São José dos Campos, identificando o setor com maior participação e saldo positivo de empregos e o setor com menor dinamismo, para avaliar o grau de dependência econômica, riscos de concentração e necessidades de intervenção pública. | 1 |
+| 3 | Média | Como tomador de decisões de políticas públicas, quero identificar setores com alto crescimento proporcional, mesmo que tenham menor volume absoluto, para reconhecer áreas emergentes da economia. | 2 |
 
 ## Registro das Sprints:
 
