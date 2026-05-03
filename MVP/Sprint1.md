@@ -54,7 +54,7 @@
 
 ## 📈 Métricas de Validação
 
-* Qualidade dos Dados preseentes no Ecossistema: Percentual de informações inconsistentes ou ausentes após o tratamento de dados.
+* Qualidade dos Dados presentes no Ecossistema: Percentual de informações inconsistentes ou ausentes após o tratamento de dados.
 * Clareza na Visualização Análitica: Avaliação da facilidade com que o analista consegue identificar bloqueios ou padrões relevantes em determinado período de tempo. 
 
 ---
