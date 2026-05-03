@@ -15,7 +15,7 @@
   - Primeira Visualização dos dados
   - Integração preliminar com as bases utilizadas.
 - **Limitações:** Limitação no conhecimento de Power Bi e Python para a realização e filtragem dos dados. 
-- **Escopo reduzido:**
+- **Escopo reduzido:** Desenvolvimento da base inicial do dashboard.
 
 ---
 
