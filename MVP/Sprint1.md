@@ -46,13 +46,16 @@
 
 ## 📊 Critérios de Aceitação
 
-- O MVP deve permitir que o usuário filtre por mês, setor e localidade, visualizar dados consolidados, comparar períodos e setores, analisando gráficos com indicadores, destacar desempenhos e exportar dados.
+- O MVP deve permitir que o usuário filtre por ano, setor e localidade, visualizar dados consolidados, comparar períodos e setores, analisando gráficos com indicadores, destacar desempenhos e exportar dados.
 - O sistema deve registrar uso de filtros, consultas, comparações, visualizações de gráficos, com dados consistentes de fonte oficial.
 - Métricas coletadas: tempo de resposta, uso de filtros, frequência de comparações, visualizações e exportações, e tempo médio de uso.
 
 ---
 
 ## 📈 Métricas de Validação
+
+* Qualidade dos Dados preseentes no Ecossistema: Percentual de informações inconsistentes ou ausentes após o tratamento de dados.
+* Clareza na Visualização Análitica: Avaliação da facilidade com que o analista consegue identificar bloqueios ou padrões relevantes em determinado período de tempo. 
 
 ---
 
