@@ -15,8 +15,7 @@
   - Primeira Visualização dos dados
   - Integração preliminar com as bases utilizadas.
 - **Limitações:** Limitação no conhecimento de Power Bi e Python para a realização e filtragem dos dados. 
-- **Escopo reduzido:** Desenvolvimento da base inicial do dashboard.
-
+- **Escopo reduzido:** Realização do tratamento de dados e construção incial do protótipo de dashboard.
 ---
 
 ## 👥 Personas / Usuários-Alvo
@@ -54,9 +53,8 @@
 
 ## 📈 Métricas de Validação
 
-* Qualidade dos Dados presentes no Ecossistema: Percentual de informações inconsistentes ou ausentes após o tratamento de dados.
-* Clareza na Visualização Análitica: Avaliação da facilidade com que o analista consegue identificar bloqueios ou padrões relevantes em determinado período de tempo. 
-
+* O MVP permite que o usuário faça o filtro por município, identificando o maior vínculo ativo e participação das indústrias químicas de São José dos Campos.
+ 
 ---
 
 ## 🚀 Próximos Passos
