@@ -65,4 +65,5 @@
 ---
 
 ## 📂 Anexos / Evidências
-[Assista nosso vídeo no YouTube](https://www.youtube.com/watch?v=a_vnWwzAA9Y)
+[Emprego Formal PowerBi]<img width="1490" height="834" alt="Gravação-de-Tela-2026-05-04-220203" src="https://github.com/user-attachments/assets/3357231a-787c-41d2-a7fe-cfbd64d7625b" />
+[Dinamismo]<img width="1490" height="834" alt="Gravação-de-Tela-2026-05-04-220203" src="https://github.com/user-attachments/assets/ab968c29-5d20-4b2a-b408-11271884e7a7" />
