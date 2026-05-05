@@ -65,4 +65,4 @@
 ---
 
 ## 📂 Anexos / Evidências
-<img width="1490" height="834" alt="Gravação de Tela 2026-05-04 220203 (1)" src="https://github.com/user-attachments/assets/19b336b0-bcff-4ec6-9758-1752fd5c76db" />
+<img width="1490" height="834" alt="Gravação de Tela 2026-05-04 220203 (1)" src="https://github.com/user-attachments/assets/e4febd9d-50fb-4726-828c-257714940a33" />
