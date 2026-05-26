@@ -58,6 +58,6 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 04/05/2026 | Concluída | [MVP](MVP/Sprint1.md) |
-| 02                | 18/05/2026 | Em andamento  | [MVP](MVP/Sprint2.md) |
+| 02                | 28/05/2026 | Em andamento  | [MVP](MVP/Sprint2.md) |
 | 03                | 08/06/2026 | Aguardando início  | [MVP](MVP/Sprint3.md) |
 | Feira de Soluções | 18/06/2026 | Aguardando início  | [MVP](MVP/MVP/FeiraDeSoluções.md) |
