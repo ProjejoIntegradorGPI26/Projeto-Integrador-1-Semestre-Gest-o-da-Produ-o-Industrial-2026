@@ -65,3 +65,4 @@
 ---
 
 ## 📂 Anexos / Evidências
+<img width="676" height="398" alt="Gravação de Tela 2026-06-02 200221" src="https://github.com/user-attachments/assets/5717f6eb-5e95-4fea-9173-7142b0c78b5e" />
