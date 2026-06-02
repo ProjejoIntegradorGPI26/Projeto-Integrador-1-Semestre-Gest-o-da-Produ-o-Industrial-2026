@@ -47,17 +47,16 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 | 1 | Alta | Como tomador de decisões de políticas públicas, quero acessar dados consolidados e confiáveis de emprego formal, organizados por setor econômico e ano, para realizar análises comparativas, identificar tendências e embasar decisões estratégicas. | 1 |
 | 2 | Alta | Como tomador de decisões de políticas públicas, quero visualizar e comparar o desempenho das indústrias químicas em São José dos Campos, identificando o setor com maior participação e saldo positivo de empregos e o setor com menor dinamismo, para avaliar o grau de dependência econômica, riscos de concentração e necessidades de intervenção pública. | 1 |
 | 3 | Média | Como tomador de decisões de políticas públicas, quero identificar setores com alto crescimento proporcional, mesmo que tenham menor volume absoluto, para reconhecer áreas emergentes da economia. | 2 |
-| 4 | Média | Como tomador de decisões de políticas públicas, quero identificar setores com crescimento moderado e consistente, para apoiar análises de estabilidade e resiliência econômica. | 2 |
+| 4 | Baixa | Como tomador de decisões de políticas públicas, quero identificar setores com crescimento moderado e consistente, para apoiar análises de estabilidade e resiliência econômica. | 3 |
 | 5 | Baixa | Como tomador de decisões de políticas públicas, quero identificar automaticamente o setor que mais contratou em determinado período, para direcionar análises e ações estratégicas. | 3 |
 | 6 | Baixa | Como tomador de decisões de políticas públicas, quero acessar um dashboard dedicado a insights setoriais automáticos, para obter uma leitura rápida e consolidada do cenário de emprego. | 3 |
 | 7 | Baixa | Como tomador de decisões de políticas públicas, quero visualizar textos analíticos gerados automaticamente junto aos dashboards, para facilitar a interpretação dos dados e a comunicação dos resultados. | 3 |
-| 8 | Baixa | Como tomador de decisões de políticas públicas, quero exportar dados e insights em formatos como PDF e Excel, para utilizar em relatórios, apresentações e estudos técnicos. | 3 |
 
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 04/05/2026 | Concluída | [MVP](MVP/Sprint1.md) |
-| 02                | 28/05/2026 | Em andamento  | [MVP](MVP/Sprint2.md) |
-| 03                | 08/06/2026 | Aguardando início  | [MVP](MVP/Sprint3.md) |
-| Feira de Soluções | 18/06/2026 | Aguardando início  | [MVP](MVP/MVP/FeiraDeSoluções.md) |
+| 02                | 28/05/2026 | Concluída  | [MVP](MVP/Sprint2.md) |
+| 03                | 18/06/2026 | Em andamento  | [MVP](MVP/Sprint3.md) |
+| Feira de Soluções | 25/06/2026 | Aguardando início  | [MVP](MVP/MVP/FeiraDeSoluções.md) |
