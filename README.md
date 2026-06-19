@@ -26,7 +26,6 @@ O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence 
 | Team Member |   Ellen Rodrigues       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ellenbrackn) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ellenbrackn/Fonte-de-informa-o-e-banco-de-dados)               |
 | Team Member  |   Marina Rebolho        |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/marina-rebolho-143b9a367) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marinafatecgpi)     |
 | Team Member  |   Raíssa Esteves      |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raissa-esteves-6463ab332?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/raissaesteves)     |
-| Team Member  | João Henrique    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-a5866a299?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-henrique20/Fonte-de-informa-o-e-banco-de-dados#fonte-de-informa-o-e-banco-de-dados)     |
 
 # Objetivo do Projeto
 
@@ -39,6 +38,7 @@ Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual d
 * Microsoft Excel
 * Microsoft Power BI
 * Python
+* Google BigQuery
 
 # Product Backlog
 
