@@ -15,7 +15,7 @@ O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino
 
 # Projeto (API)
 
-O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence direcionada à análise do ecossistema industrial de São José dos Campos, Vale do Paraíba e Litoral Norte, utilizando dados públicos da RAIS (Relação Anual de Informações Sociais). A proposta consiste na criação de um painel interativo via web capaz de processar e combinar dados sobre o perfil produtivo regional, identificando os setores predominantes e apoiar futuras iniciativas de tomada de decisão de gestão pública. 
+O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence direcionada ao mapeamento do ecossistema industrial de São José dos Campos e região, utilizando dados públicos da RAIS (Relação Anual de Informações Sociais). A proposta consiste na criação de um painel interativo via web capaz de processar e combinar dados sobre o perfil produtivo regional, identificando os setores predominantes e apoiar futuras iniciativas de tomada de decisão de gestão pública. 
 
  # Equipe
 
@@ -29,13 +29,13 @@ O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence 
 
 # Objetivo do Projeto
 
-Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual de Informaçẽos Sociais) para analisar o ecossistema industrial e de serviços como foco nas indústrias químicas de São José dos Campos, Vale do Paraíba e Litoral Norte. O sistema deve oferecer dados sólidos evidenciando o setor mais aquecido, estável e com potencial de expansão proporcional, permitindo análises comparativas e apoiando a tomada de decisão no contexto de gestão industrial.
+Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual de Informaçẽos Sociais) para mapear o ecossistema industrial e de serviços como foco nas indústrias químicas de São José dos Campos e região. O sistema deve oferecer dados sólidos evidenciando o setor mais aquecido, estável e com potencial de expansão proporcional, permitindo análises comparativas e apoiando a tomada de decisão no contexto de gestão industrial.
 
 # Tecnologias Utilizadas
 
 * GitHub
 * Google Colab
-* Microsoft Excel
+* Pacote Office
 * Microsoft Power BI
 * Python
 * Google BigQuery
